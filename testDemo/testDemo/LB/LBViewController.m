@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.title = @"哈哈就啊哈哈哈哈哈哈哈";
     // Do any additional setup after loading the view from its nib.
 }
 
