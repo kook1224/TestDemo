@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.title = @"哈哈哈";
+    self.title = @"github多人开发测试";
 }
 
 
