@@ -21,6 +21,8 @@
     [super viewDidLoad];
     
     self.title = @"github多人开发测试";
+    
+    NSLog(@"开发人员:哈哈哈");
 }
 
 
